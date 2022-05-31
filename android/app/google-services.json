@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985679979938",
+    "firebase_url": "https://petkeeper-3c643-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petkeeper-3c643",
+    "storage_bucket": "petkeeper-3c643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985679979938:android:dc5bf80c3d92d6607e3efb",
+        "android_client_info": {
+          "package_name": "com.example.petkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985679979938-7ep5av5oo00emqu4kd84qrqveqj7kdc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyh8w9WTVuOMtiREkw3vfu9DLwIyHmnr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985679979938-7ep5av5oo00emqu4kd84qrqveqj7kdc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
